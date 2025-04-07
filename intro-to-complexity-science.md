@@ -29,7 +29,7 @@ demonstrates how financial markets adapt to innovation. Similarly, investors con
 outcomes and feedback. This explains why no single trading strategy remains the best investment strategy indefinitely, a concept aligned with the principles of 
 efficient market hypothesis.
 
-<img src="characteristics.png" alt="Characteristics of Complexity Science" width="500"/>
+<img src="images/characteristics.png" alt="Characteristics of Complexity Science" width="500"/>
 
 ## Conclusion
 Up until now, we are taught about supervised and unsupervised machine learning models and how powerful is this in real-world scenarios. However, financial markets 
