@@ -1,2 +1,2 @@
 # complexity-science
-This repository includes topics about complexity theory
+This repository includes topics about how complexity theory relate to financial systems
